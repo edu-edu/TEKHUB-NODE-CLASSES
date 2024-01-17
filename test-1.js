@@ -2,9 +2,7 @@
 // const today = 'Wednesday';
 // const greeting = 'Hello';
 
-// function sum(a, b) {
-// 	return a + b;
-// }
+
 
 // module.exports = myName;
 
