@@ -1,6 +1,6 @@
-// const myName = 'Zayne';
-// const today = 'Wednesday';
-// const greeting = 'Hello';
+// const myName = 'edu edu';
+// const today = 'Tuesday';
+// const greeting = 'Hi';
 
 
 
@@ -16,8 +16,8 @@
 
 
 
-let name = 'Zayne';
-let age = 20;
+let name = 'edu edu';
+let age = 30;
 let country = 'Nigeria';
 
 
